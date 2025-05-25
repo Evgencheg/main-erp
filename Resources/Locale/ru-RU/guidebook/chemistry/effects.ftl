@@ -128,7 +128,7 @@ reagent-effect-guidebook-adjust-reagent-reagent =
                 [1] добавляют
                *[-1] удаляют
             }
-    } { NATURALFIXED($amount, 2) } ед. от { $reagent } { $deltasign ->
+    } { NATURALFIXED($amount, 2) }ед. от { $reagent } { $deltasign ->
         [1] к
        *[-1] из
     } раствора
@@ -331,9 +331,9 @@ reagent-effect-guidebook-area-reaction =
     }
 reagent-effect-guidebook-artifact-unlock =
     { $chance ->
-        [1] Helps
-       *[other] help
-    } unlock an alien artifact.
+        [1] Помогает
+       *[other] помочь
+    } разблокировать инопланетный артефакт.
 reagent-effect-guidebook-add-to-solution-reaction =
     { $chance ->
         [1] Заставляет

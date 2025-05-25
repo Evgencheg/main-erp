@@ -58,7 +58,7 @@ barsign-prototype-description-ale-nath = По какой-то причине п�
 ## The Net
 
 barsign-prototype-name-the-net = Сеть
-barsign-prototype-description-the-net = Не заметишь, как затянет на пару часов.
+barsign-prototype-description-the-net = Незаметишь как затянет на пару часов.
 
 ## Maid Cafe
 
@@ -108,7 +108,7 @@ barsign-prototype-description-goose = Пей до рвоты и/или нару�
 ## The Engine Change
 
 barsign-prototype-name-enginechange = Замена двигателя
-barsign-prototype-description-enginechange = Всё ещё ожидаем.
+barsign-prototype-description-enginechange = Все ещё ожидаем.
 
 ## 4 The Emprah
 
@@ -122,13 +122,13 @@ barsign-prototype-description-spacebucks = От них нельзя скрыть
 
 ## Maltroach
 
-barsign-prototype-name-maltroach = Пивная Моль
+barsign-prototype-name-maltroach = Мальтроуч
 barsign-prototype-description-maltroach = Сквик!
 
 ## Whiskey Echoes
 
-barsign-prototype-name-whiskeyechoes = Виски Эхо
-barsign-prototype-description-whiskeyechoes = Элитный бар для элитных опер... Подождите, это же станция Nanotrasen. Почему эта вывеска в базе данных?
+barsign-prototype-name-whiskeyechoes = Эхо виски
+barsign-prototype-description-whiskeyechoes = Элитный бар для элитных оперативников... Подождите, это же станция NanoTrasen. Почему эта вывеска в базе данных?
 
 ## EmpBarSign
 
@@ -136,4 +136,4 @@ barsign-prototype-description-empbarsign = Что-то пошло совсем �
 
 ## SignOff
 
-barsign-prototype-description-sign-off = Эта вывеска, похоже, не включёна.
+barsign-prototype-description-sign-off = Эта вывеска, похоже, не включена.
