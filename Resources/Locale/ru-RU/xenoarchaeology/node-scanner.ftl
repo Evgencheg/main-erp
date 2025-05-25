@@ -1,4 +1,3 @@
-node-scan-popup = ID узла: { $id }
 node-scan-no-data = No active node data found
 node-scan-display-title = Node scanner
 node-scanner-artifact-state-ready = Artifact is ready for interaction

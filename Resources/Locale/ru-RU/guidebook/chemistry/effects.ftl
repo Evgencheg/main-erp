@@ -95,11 +95,6 @@ reagent-effect-guidebook-status-effect =
                *[other] удаляют
             } { NATURALFIXED($time, 3) } от { LOC($key) }
     }
-reagent-effect-guidebook-activate-artifact =
-    { $chance ->
-        [1] Пытается
-       *[other] пытаются
-    } активировать артефакт
 reagent-effect-guidebook-set-solution-temperature-effect =
     { $chance ->
         [1] Устанавливает

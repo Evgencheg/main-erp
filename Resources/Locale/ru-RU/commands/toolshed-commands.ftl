@@ -22,7 +22,6 @@ command-description-stations-largestgrid = Returns the largest grid the given st
 command-description-stations-rerollBounties = Clears all the current bounties for the station and gets a new selection.
 command-description-stationevent-lsprob = Lists the probability of different station events occuring out of the entire pool.
 command-description-stationevent-lsprobtheoretical = Given a BasicStationEventScheduler prototype, player count, and round time, lists the probability of different station events occuring based on the specified number of players and round time.
-command-description-stationevent-lsprobtime = Lists the probability of different station events occuring based on the specified length of a round.
 command-description-stationevent-prob = Returns the probability of a single station event occuring out of the entire pool.
 command-description-admins-active = Returns a list of active admins.
 command-description-admins-all = Returns a list of ALL admins, including deadmined ones.
