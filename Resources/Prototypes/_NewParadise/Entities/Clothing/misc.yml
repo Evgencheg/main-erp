@@ -174,14 +174,12 @@
     node: Blooons
 
 - type: construction
-  name: Blooons
   id: LPPBloons
   graph: LPPbloons
   startNode: start
   targetNode: Blooons
   category: construction-category-utilities
   objectType: Item
-  description: "Spooky balloons!"
   icon:
     sprite: _NewParadise/Clothing/HalloweenDecor/bloons.rsi
     state: icon_bloons
@@ -198,18 +196,15 @@
         icon:
           sprite: _NewParadise/Clothing/HalloweenDecor/bloons.rsi
           state: icon_orange
-        name: Orange balloon
       - tag: Wblloon
         icon:
           sprite: _NewParadise/Clothing/HalloweenDecor/bloons.rsi
           state: icon_white
-        name: White balloon
         doAfter: 2
       - tag: Bblloon
         icon:
           sprite: _NewParadise/Clothing/HalloweenDecor/bloons.rsi
           state: icon_black
-        name: Black balloon
         doAfter: 2
   - node: Blooons
     entity: LPPBalloonHalloweenBloons
