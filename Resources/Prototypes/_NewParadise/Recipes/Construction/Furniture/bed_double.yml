@@ -8,9 +8,6 @@
   category: construction-category-structures
   conditions:
     - !type:TileNotBlocked
-  icon:
-    sprite: _NewParadise/Structures/Furniture/furniture.rsi
-    state: bed_double_up
   objectType: Structure
   placementMode: SnapgridCenter
   canBuildInImpassable: false
@@ -23,9 +20,6 @@
   category: construction-category-structures
   conditions:
     - !type:TileNotBlocked
-  icon:
-    sprite: _NewParadise/Structures/Furniture/furniture.rsi
-    state: bed_double_down
   objectType: Structure
   placementMode: SnapgridCenter
   canBuildInImpassable: false
